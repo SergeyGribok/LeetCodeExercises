@@ -48,6 +48,16 @@ _88_Merge_Sorted_Array.RunSolution([1, 4, 0, 0, 0, 0, 0], 2, [1, 2, 3, 5, 6], 5)
 //_205_Isomorphic_Strings.RunSolution("bbbaaaba", "aaabbbba");
 //_205_Isomorphic_Strings.RunSolution("abba", "abab");
 
+//_290_Word_Pattern.RunSolution("abba", "dog cat cat dog");
+//_290_Word_Pattern.RunSolution("abba", "dog cat cat god");
+//_290_Word_Pattern.RunSolution("abba", "dog cat cat fish");
+//_290_Word_Pattern.RunSolution("aaaa", "dog cat cat dog");
+//_290_Word_Pattern.RunSolution("abba", "dog dog dog dog");
+//_290_Word_Pattern.RunSolution("abc", "b c a");
+//_290_Word_Pattern.RunSolution("aaa", "aa aa aa aa");
+//_290_Word_Pattern.RunSolution("jquery", "jquery");
+//_290_Word_Pattern.RunSolution("tqbfjotld", "the quick brown fox jumps over the lazy dog");
+
 //_383_RansomNote.RunSolution("a", "b");
 //_383_RansomNote.RunSolution("aa", "ab");
 //_383_RansomNote.RunSolution("aa", "aab");
