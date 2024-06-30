@@ -1,6 +1,11 @@
 ﻿using LeetCodeExercises;
 Console.OutputEncoding = System.Text.Encoding.UTF8;
 
+_1_Two_Sum.RunSolution([2, 7, 11, 15], 9);
+_1_Two_Sum.RunSolution([3, 3], 6);
+_1_Two_Sum.RunSolution([2, 5 ,3, 4], 6);
+_1_Two_Sum.RunSolution([1, 2, 4, 6, 7, -30, 10], -20);
+
 //_14_Longest_Common_Prefix.RunSolution(["flower", "flow", "flight"]);
 //_14_Longest_Common_Prefix.RunSolution(["dog", "racecar", "car"]);
 //_14_Longest_Common_Prefix.RunSolution(["", "b"]);
