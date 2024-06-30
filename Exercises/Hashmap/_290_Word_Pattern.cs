@@ -1,6 +1,4 @@
-﻿using System.Collections.Immutable;
-
-namespace LeetCodeExercises;
+﻿namespace LeetCodeExercises;
 /*
 Given a pattern and a string s, find if s follows the same pattern.
 

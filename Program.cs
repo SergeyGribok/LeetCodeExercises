@@ -1,4 +1,5 @@
 ﻿using LeetCodeExercises;
+Console.OutputEncoding = System.Text.Encoding.UTF8;
 
 //_14_Longest_Common_Prefix.RunSolution(["flower", "flow", "flight"]);
 //_14_Longest_Common_Prefix.RunSolution(["dog", "racecar", "car"]);
@@ -47,6 +48,14 @@ _88_Merge_Sorted_Array.RunSolution([1, 4, 0, 0, 0, 0, 0], 2, [1, 2, 3, 5, 6], 5)
 //_205_Isomorphic_Strings.RunSolution("foo", "bar");
 //_205_Isomorphic_Strings.RunSolution("bbbaaaba", "aaabbbba");
 //_205_Isomorphic_Strings.RunSolution("abba", "abab");
+
+//_242_Valid_Anagram.RunSolution("anagram", "nagaram");
+//_242_Valid_Anagram.RunSolution("rat", "car");
+//_242_Valid_Anagram.RunSolution("ab", "bb");
+//_242_Valid_Anagram.RunSolution_FollowUp("ana©gram", "nagaram©");
+//_242_Valid_Anagram.RunSolution_FollowUp("rat©", "car©");
+//_242_Valid_Anagram.RunSolution_FollowUp("aa", "bb");
+//_242_Valid_Anagram.RunSolution_FollowUp("aacc", "ccac");
 
 //_290_Word_Pattern.RunSolution("abba", "dog cat cat dog");
 //_290_Word_Pattern.RunSolution("abba", "dog cat cat god");
