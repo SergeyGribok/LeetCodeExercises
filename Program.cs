@@ -1,10 +1,10 @@
 ﻿using LeetCodeExercises;
 Console.OutputEncoding = System.Text.Encoding.UTF8;
 
-_1_Two_Sum.RunSolution([2, 7, 11, 15], 9);
-_1_Two_Sum.RunSolution([3, 3], 6);
-_1_Two_Sum.RunSolution([2, 5 ,3, 4], 6);
-_1_Two_Sum.RunSolution([1, 2, 4, 6, 7, -30, 10], -20);
+//_1_Two_Sum.RunSolution([2, 7, 11, 15], 9);
+//_1_Two_Sum.RunSolution([3, 3], 6);
+//_1_Two_Sum.RunSolution([2, 5 ,3, 4], 6);
+//_1_Two_Sum.RunSolution([1, 2, 4, 6, 7, -30, 10], -20);
 
 //_14_Longest_Common_Prefix.RunSolution(["flower", "flow", "flight"]);
 //_14_Longest_Common_Prefix.RunSolution(["dog", "racecar", "car"]);
@@ -47,6 +47,10 @@ _88_Merge_Sorted_Array.RunSolution([1, 4, 0, 0, 0, 0, 0], 2, [1, 2, 3, 5, 6], 5)
 
 //_169_Majority_Element.RunSolution([2, 2, 1, 4, 3, 2, 2]);
 //_169_Majority_Element.RunSolution([]);
+
+//_202_Happy_Number.RunSolution(19);
+//_202_Happy_Number.RunSolution(2);
+//_202_Happy_Number.RunSolution(3);
 
 //_205_Isomorphic_Strings.RunSolution("egg", "add");
 //_205_Isomorphic_Strings.RunSolution("paper", "title");

@@ -19,13 +19,17 @@ public class _1_Two_Sum
 {
     public static int[] TwoSum(int[] nums, int target)
     {
+
+        Dictionary<int, int> map = new Dictionary<int, int>();
         for (int i = 0; i < nums.Length; i++)
         {
-            for (int j = i + 1; j < nums.Length; j++)
+            int complement = target - nums[i];
+            if (map.ContainsKey(complement))
             {
-                if (nums[i] + nums[j] == target)
-                    return [i, j];
+                return new int[] { map[complement], i };
             }
+
+            map[nums[i]] = i;
         }
 
         return [0, 0];
