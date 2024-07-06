@@ -52,6 +52,9 @@ _88_Merge_Sorted_Array.RunSolution([1, 4, 0, 0, 0, 0, 0], 2, [1, 2, 3, 5, 6], 5)
 //_202_Happy_Number.RunSolution(2);
 //_202_Happy_Number.RunSolution(3);
 
+//_189_Rotate_Array.RunSolution([1, 2, 3, 4, 5, 6, 7], 3);
+//_189_Rotate_Array.RunSolution([-1, -100, 3, 99], 2);
+
 //_205_Isomorphic_Strings.RunSolution("egg", "add");
 //_205_Isomorphic_Strings.RunSolution("paper", "title");
 //_205_Isomorphic_Strings.RunSolution("foo", "bar");
