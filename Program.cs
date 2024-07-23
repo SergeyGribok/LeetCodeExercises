@@ -11,6 +11,12 @@ Console.OutputEncoding = System.Text.Encoding.UTF8;
 //_14_Longest_Common_Prefix.RunSolution(["", "b"]);
 //_14_Longest_Common_Prefix.RunSolution(["ab", "a"]);
 
+//_20_Valid_Parentheses.RunSolution("{[]}");
+//_20_Valid_Parentheses.RunSolution("((");
+//_20_Valid_Parentheses.RunSolution("()");
+//_20_Valid_Parentheses.RunSolution("()[]{}");
+//_20_Valid_Parentheses.RunSolution("(]");
+
 //_26_Remove_Duplicates_from_Sorted_Array.RunSolution([1, 1, 2]);
 //_26_Remove_Duplicates_from_Sorted_Array.RunSolution([0, 0, 1, 1, 1, 2, 2, 3, 3, 4]);
 
